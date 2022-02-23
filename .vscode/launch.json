@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiserverApplication<apiserver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.forcewin.metasearch.apiserver.ApiserverApplication",
+            "projectName": "apiserver",
+            "args": ""
+        }
+    ]
+}
